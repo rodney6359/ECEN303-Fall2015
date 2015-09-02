@@ -48,7 +48,7 @@
 * Emily Roth, e-roth123, [e-roth123](https://github.com/e-roth123/)
 * Joshua Ruff, joshruff
 * Stephen Sattler, stephensattler
-* Rodney Siders, rodney6359
+* Rodney Siders, rodney6359,[rodney6359](https://github.com/rodney6359/)
 * Zachary Smadi, smadi94, [smadi94](https://github.com/smadi94/)
 * Michael Snowden, mwsnowden56, [mwsnowden56](https://github.com/mwsnowden56)
 * Eloi Tarango, fabian.tarango, [fabiantarango](https://github.com/fabiantarango)
